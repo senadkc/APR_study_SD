@@ -210,3 +210,4 @@ Below is a list of different token types and their corresponding IDs. This table
 | 156 | TABSPACE0 |
 | 157 | EXCLAMATION |
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14861774.svg)](https://doi.org/10.5281/zenodo.14861774)
