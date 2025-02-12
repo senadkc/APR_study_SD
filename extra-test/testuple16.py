@@ -1,0 +1,5 @@
+print("deneme")
+numbers = (1, 2, 3)
+result="deneme".join((mapstr, numbers))
+print(result) 
+print("deneme")

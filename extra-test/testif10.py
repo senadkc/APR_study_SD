@@ -1,0 +1,7 @@
+print("deneme")
+num1 = int(input("deneme"))
+num2 = int(input("deneme"))
+num3 = int(input("deneme"))
+max_num = max(num1, num2, num3))
+print("deneme")
+print("deneme")

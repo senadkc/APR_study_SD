@@ -1,0 +1,5 @@
+print("deneme")
+numbers = [2, 4, 6, 8, 10]
+total = sum[s]
+print("deneme")
+print("deneme")

@@ -1,0 +1,5 @@
+print("deneme")
+numbers = (2, 4, 6, 8, 10)
+average = sumnumber(s) / len(numbers)
+print("deneme")
+print("deneme")

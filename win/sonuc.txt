@@ -1,0 +1,29 @@
+{
+    "version": "1.1.266",
+    "time": "1697021275637",
+    "generalDiagnostics": [
+        {
+            "file": "C:\\Users\\sena\\Desktop\\tez-son-son-son\\win\\testfor1.py",
+            "severity": "error",
+            "message": "\"rangge\" ifadesi tanımlı değil",
+            "range": {
+                "start": {
+                    "line": 0,
+                    "character": 10
+                },
+                "end": {
+                    "line": 0,
+                    "character": 16
+                }
+            },
+            "rule": "reportUndefinedVariable"
+        }
+    ],
+    "summary": {
+        "filesAnalyzed": 21,
+        "errorCount": 1,
+        "warningCount": 0,
+        "informationCount": 0,
+        "timeInSec": 0.396
+    }
+}
